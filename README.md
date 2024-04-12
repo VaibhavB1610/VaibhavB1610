@@ -53,7 +53,7 @@ Full-stack enthusiast with a curious eye on the horizon of web3. Navigating the 
     </a>
 </p>
 
-<h3>Database</h3>
+<h3>Database :</h3>
 <p align="left">
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" />
@@ -63,7 +63,7 @@ Full-stack enthusiast with a curious eye on the horizon of web3. Navigating the 
     </a>
 </p>
 
-<h3>Web 3</h3>
+<h3>Web 3 :</h3>
 <p align="left">
     <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" />
