@@ -91,7 +91,7 @@ Full-stack enthusiast with a curious eye on the horizon of web3. Navigating the 
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/vaib1610"><img src="https://github-readme-stats.vercel.app/api?username=vaib1610&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=3382ed&icon_color=3382ed&bg_color=000000&hide_border=true&show_icons=true" alt="vaibi16's GitHub stats" /></a>
+<a href="http://www.github.com/vaib1610"><img src="https://github-readme-stats.vercel.app/api?username=vaib1610&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=3382ed&icon_color=3382ed&bg_color=000000&hide_border=true&show_icons=true" alt="vaib1610's GitHub stats" /></a>
 
 <a href="https://github.com/vaib1610" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaib1610&langs_count=10&title_color=0891b2&text_color=3382ed&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
